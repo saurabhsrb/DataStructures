@@ -5,7 +5,7 @@ package com.himansh.doublyLinkedList;
 
 //Jai shree ram
 
-//hiiiii
+//hiiiiii
 public class DoublyLinkedList {
 	private Node head;
 	private int length=0;
